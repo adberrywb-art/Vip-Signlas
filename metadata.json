@@ -1,0 +1,5 @@
+{
+  "name": "Adberry Signals",
+  "description": "Plataforma profesional para automatizar señales de trading de Telegram a TradingView, especializada en EURUSD con gestión de lotaje y estadísticas de éxito.",
+  "requestFramePermissions": []
+}
