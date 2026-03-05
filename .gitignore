@@ -1,6 +1,0 @@
-node_modules
-dist
-.env
-adberry.db
-*.log
-.DS_Store
